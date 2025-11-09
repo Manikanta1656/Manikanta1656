@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-# DevOps Engineer, Building Infrastructure That Scales With Your Business, Not Against It
-
+# Simplifying the complex world of cloud infrastructure through DevOps excellence.
 ## What I Bring to the Table
 
 I bring principles into DevOps:
@@ -19,25 +18,17 @@ Proven ability to wear multiple hats while delivering consistent results. From K
   Deploying, scaling, and troubleshooting complex containerized environments
 
 - **Multi-Cloud Architecture**  
-  Production experience across Azure, GCP, AWS, and Huawei Cloud
+  Production experience across Azure, AWS.
 
 - **Infrastructure as Code**  
-  Terraform automation reducing manual work by 80%
+  Enabled end-to-end infrastructure automation using Terraform, reducing manual processes by 80% and improving deployment speed
 
 - **CI/CD Excellence**  
-  GitOps workflows with automated testing and rollbacks
-
-- **Security-First Approach**  
-  Zero Trust implementations and automated vulnerability management
+  Enabled secure, automated deployments through GitOps workflows with built-in testing and rollback automation.
 
 - **Observability**  
-  Comprehensive monitoring with Prometheus, Grafana, and custom dashboards
+  Built proactive monitoring solutions leveraging Prometheus and Grafana, creating custom dashboards to enhance visibility and reduce incident response time.
 
----
-
-## Recent Achievements
-
----
 
 ## What Excites Me
 
