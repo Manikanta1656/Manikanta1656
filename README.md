@@ -1,7 +1,8 @@
 <!-- ==================== HEADER / BADGES ==================== -->
 
 # Hi there, I'm **Mani!** 👋  
-### DevOps & Cloud Engineer | Infrastructure as Code | CI/CD Enthusiast
+
+## DevOps & Cloud Engineer | Infrastructure as Code | CI/CD Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/Manikanta1656?label=Follow&style=social)](https://github.com/Manikanta1656)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com)
@@ -16,6 +17,7 @@ I’m a DevOps and Cloud engineer passionate about building clean, automated, an
 I'm comfortable working across cloud environments — especially **Azure**, while actively expanding into **AWS** and **MLOps/AI-driven automation**.
 
 I enjoy:
+
 - Crafting reusable Terraform modules  
 - Architecting CI/CD pipelines  
 - Containerizing applications for seamless deployment  
@@ -28,8 +30,8 @@ I enjoy:
 ### 💻 Technical Expertise
 
 | Category | Tools & Technologies |
-|----------|----------------------|
-| **Cloud Platforms** | Azure, AWS *(learning)* |
+| ---------- | ---------------------- |
+| **Cloud Platforms** | Azure, AWS |
 | **Infrastructure as Code** | Terraform, ARM Templates |
 | **Containers & Orchestration** | Docker, Kubernetes (AKS/EKS) |
 | **CI/CD & Automation** | GitHub Actions, Azure DevOps, Jenkins |
@@ -50,25 +52,19 @@ I enjoy:
 
 ## 🛠 Highlight Projects
 
-### 🔹 Terraform Secure Storage Module  
-> A reusable module that deploys a private Azure Storage account with NSG and VNet restrictions — ensuring secure network access with zero public exposure.
+### 🔹 Containerized Python Deployment
 
-📁 `terraform-azure-private-storage`  
-🔗 
-
----
-
-### 🔹 Containerized Python Deployment  
 > Built, containerized, and configured a Python application so it can be deployed effortlessly on any Kubernetes cluster.
 
 📁 `python-app-containerized`  
-🔗 https://github.com/Manikanta1656/Fibonacci-Calculator-Web-App
+🔗 [GitHub Repository](https://github.com/Manikanta1656/Fibonacci-Calculator-Web-App)
 
 ---
 
 ## 🔍 What I’m Exploring
 
 I’m actively learning:
+
 ✔ MLOps workflows  
 ✔ Model deployment & monitoring  
 ✔ How cloud automation and AI can power better delivery pipelines
@@ -81,9 +77,10 @@ I love working with teams that value automation, clarity, and efficiency.
 Whether you're building cloud infrastructure, automating deployments, or seeking consulting on a project — I’m open to new challenges.
 
 📫 **Let’s connect!**  
+
 - Send me a message on GitHub  
 - Reach out on LinkedIn  
-- Email: *agvmanikanta779393@gmail.com*
+- Email: *<agvmanikanta779393@gmail.com>*  
 
 ---
 
@@ -93,4 +90,4 @@ When I’m not coding or refining IaC, I’m exploring the latest AI tools and t
 
 ---
 
-**Thanks for visiting! 🚀**
+## Thanks for visiting! 🚀
